@@ -28,7 +28,7 @@
     "homepage": "https://github.com/zattoo/reviewers#readme",
     "dependencies": {
         "@actions/core": "1.10.0",
-        "@actions/github": "5.1.1",
+        "@actions/github": "9.0.0",
         "fs-extra": "11.1.0",
         "lodash": "4.17.21",
         "parse-link-header": "1.0.1"
